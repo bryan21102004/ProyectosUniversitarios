@@ -3,7 +3,9 @@
 Repositorio que reúne mis principales proyectos académicos desarrollados durante la carrera,
 enfocados en backend, frontend, bases de datos y aplicaciones de escritorio.
 
-##-Tecnologías
+---
+
+## 🧠 Tecnologías                                    
 - C#
 - ASP.NET Core
 - Angular
@@ -12,6 +14,7 @@ enfocados en backend, frontend, bases de datos y aplicaciones de escritorio.
 - Java
 - SQL Server / MySQL
 
+---
 
 ## 📂 Proyectos Destacados
 
@@ -39,6 +42,7 @@ Sistema de failover entre SQL Server y MySQL.
 Página web para un cliente PYME sobre un catálogo de productos, desplegada en Vercel.
 - Angular
 - Google Sheets
+- 🌐 Demo: https://www.cositassami.shop/
 📎 Repositorio: `https://github.com/bryan21102004/catalogo-chain.git`
 
 ---
