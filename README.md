@@ -53,7 +53,7 @@ Aplicación de escritorio que genera reportes mensuales en PDF a partir de regis
 ### 🔹 El Cublino – Juego de Estrategia
 Juego de tablero para dos jugadores basado en dados y toma de decisiones estratégicas.
 - Java  
-🔗 Repositorio: ``
+🔗 Repositorio: `https://github.com/bryan21102004/El--Cublino.git`
 
 
 
