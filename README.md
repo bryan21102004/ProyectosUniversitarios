@@ -31,7 +31,7 @@ Sistema de failover entre SQL Server y MySQL.
 - Python
 - Multihilo
 - SQL Server / MySQL
-📎 Repositorio: ``
+📎 Repositorio: `https://github.com/bryan21102004/Simulador-de-chat-con-dos-gestores-de-BD.git`
 
 ---
 
