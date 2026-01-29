@@ -11,7 +11,7 @@ enfocados en backend, frontend, bases de datos y aplicaciones de escritorio.
 - Python
 - Java
 - SQL Server / MySQL
-- GitHub
+
 
 ## 📂 Proyectos Destacados
 
@@ -20,20 +20,32 @@ Sistema de gestión de citas para un barbero.
 - Backend: ASP.NET Core
 - Frontend: Angular
 - Base de datos: SQL Server
-📎 Ruta: `https://github.com/kialexa/Aris_barber_shop.git `
+📎 Repositorio: `https://github.com/kialexa/Aris_barber_shop.git `
 
 ### 🔹 Replicación de Base de Datos
 Sistema de failover entre SQL Server y MySQL.
 - Python
 - Multihilo
 - SQL Server / MySQL
-📎 Ruta: `/bases-de-datos/replicacion-sqlserver-mysql`
+📎 Repositorio: `/bases-de-datos/replicacion-sqlserver-mysql`
 
-### 🔹Catálogo de productos-CositasSami
-Pagina web para un cliente PYME sobre un catalogo de productos, la app se encuentra alojada en Vercel, un hosting gratuito.
+### 🔹 Catálogo de Productos – CositasSami
+Página web para un cliente PYME sobre un catálogo de productos, desplegada en Vercel.
 - Angular
 - Google Sheets
-📎 Ruta: `/desktop/java-cellid-checker`
+📎 Repositorio: `https://github.com/bryan21102004/catalogo-chain.git`
+
+### 🔹 Automatización de Asistencia Escolar
+Aplicación de escritorio que genera reportes mensuales en PDF a partir de registros de asistencia por huella digital.
+- Python  
+🔗 Repositorio: (en desarrollo)
+
+---
+
+### 🔹 El Cublino – Juego de Estrategia
+Juego de tablero para dos jugadores basado en dados y toma de decisiones estratégicas.
+- Java  
+🔗 Repositorio: (en desarrollo)
 
 
 
