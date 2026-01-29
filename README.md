@@ -43,6 +43,7 @@ Página web para un cliente PYME sobre un catálogo de productos, desplegada en 
 - Angular
 - Google Sheets
 - 🌐 Demo: https://www.cositassami.shop/
+  
 📎 Repositorio: `https://github.com/bryan21102004/catalogo-chain.git`
 
 ---
