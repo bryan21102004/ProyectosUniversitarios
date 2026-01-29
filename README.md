@@ -15,12 +15,16 @@ enfocados en backend, frontend, bases de datos y aplicaciones de escritorio.
 
 ## 📂 Proyectos Destacados
 
+---
+
 ### 🔹 ArisBarbershop
 Sistema de gestión de citas para un barbero.
 - Backend: ASP.NET Core
 - Frontend: Angular
 - Base de datos: SQL Server
 📎 Repositorio: `https://github.com/kialexa/Aris_barber_shop.git `
+
+---
 
 ### 🔹 Replicación de Base de Datos
 Sistema de failover entre SQL Server y MySQL.
@@ -29,11 +33,15 @@ Sistema de failover entre SQL Server y MySQL.
 - SQL Server / MySQL
 📎 Repositorio: `/bases-de-datos/replicacion-sqlserver-mysql`
 
+---
+
 ### 🔹 Catálogo de Productos – CositasSami
 Página web para un cliente PYME sobre un catálogo de productos, desplegada en Vercel.
 - Angular
 - Google Sheets
 📎 Repositorio: `https://github.com/bryan21102004/catalogo-chain.git`
+
+---
 
 ### 🔹 Automatización de Asistencia Escolar
 Aplicación de escritorio que genera reportes mensuales en PDF a partir de registros de asistencia por huella digital.
