@@ -31,7 +31,7 @@ Sistema de failover entre SQL Server y MySQL.
 - Python
 - Multihilo
 - SQL Server / MySQL
-📎 Repositorio: `/bases-de-datos/replicacion-sqlserver-mysql`
+📎 Repositorio: ``
 
 ---
 
@@ -46,14 +46,14 @@ Página web para un cliente PYME sobre un catálogo de productos, desplegada en 
 ### 🔹 Automatización de Asistencia Escolar
 Aplicación de escritorio que genera reportes mensuales en PDF a partir de registros de asistencia por huella digital.
 - Python  
-🔗 Repositorio: (en desarrollo)
+🔗 Repositorio: ``
 
 ---
 
 ### 🔹 El Cublino – Juego de Estrategia
 Juego de tablero para dos jugadores basado en dados y toma de decisiones estratégicas.
 - Java  
-🔗 Repositorio: (en desarrollo)
+🔗 Repositorio: ``
 
 
 
