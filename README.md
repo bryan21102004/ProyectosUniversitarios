@@ -15,9 +15,7 @@ enfocados en backend, frontend, bases de datos y aplicaciones de escritorio.
 - SQL Server / MySQL
 
 ---
-
 ## 📂 Proyectos Destacados
-
 ---
 
 ### 🔹 ArisBarbershop
@@ -25,6 +23,7 @@ Sistema de gestión de citas para un barbero.
 - Backend: ASP.NET Core
 - Frontend: Angular
 - Base de datos: SQL Server
+  
 📎 Repositorio: `https://github.com/kialexa/Aris_barber_shop.git `
 
 ---
