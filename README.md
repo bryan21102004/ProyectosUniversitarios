@@ -51,7 +51,7 @@ Página web para un cliente PYME sobre un catálogo de productos, desplegada en 
 ### 🔹 Automatización de Asistencia Escolar
 Aplicación de escritorio que genera reportes mensuales en PDF a partir de registros de asistencia por huella digital.
 - Python  
-🔗 Repositorio: ``
+🔗 Repositorio: `https://github.com/bryan21102004/Reloj-Marcador.git`
 
 ---
 
